@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Julio Méndez</h1>
-<h3 align="center">Apasionado de la Comunicación Estratégica que descubrió los GIS y el mundo de los datos y le fascinó</h3>
+<h3 align="center">Apasionado de la Comunicación Estratégica que descubrió los GIS y el mundo de los datos</h3>
 
 - 🔭 Actualmente estoy construyendo **mi portafolio de proyectos**
 
-- 🌱 Actualmente estoy entretenido con temas de: **Ciberseguridad y cómputo de alto rendimiento**
+- 🌱 También estoy entretenido con temas de: **Ciberseguridad y cómputo de alto rendimiento**
 
 - 💬 Puedes preguntarme sobre **Análisis de datos, bases de datos, inteligencia de negocios**
 
